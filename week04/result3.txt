@@ -1,0 +1,14 @@
+=============================================================
+varchr0: val = a, adr = 0x600d90
+varchr1: val = b, adr = 0x600d91
+varchr2: val = c, adr = 0x600d92
+varchr3: val = d, adr = 0x600d93
+ptrchr0: pts = a, val = 0x600d90, adr = 0x600d98
+ptrchr1: pts = b, val = 0x600d91, adr = 0x600da0
+ptrchr2: pts = c, val = 0x600d92, adr = 0x600da8
+ptrchr3: pts = d, val = 0x600d93, adr = 0x600db0
+ptrptr0: ppt = a, pts = 0x600d90, val = 0x600d98, adr = 0x600db8
+ptrptr1: ppt = b, pts = 0x600d91, val = 0x600da0, adr = 0x600dc0
+ptrptr2: ppt = c, pts = 0x600d92, val = 0x600da8, adr = 0x600dc8
+ptrptr3: ppt = d, pts = 0x600d93, val = 0x600db0, adr = 0x600dd0
+=============================================================
